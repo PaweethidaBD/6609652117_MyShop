@@ -34,6 +34,8 @@
 .txt-black-65{ color: var(--rp-black-65)}
 .txt-black-45{ color: var(--rp-black-45)}
 .txt-black-25{ color: var(--rp-black-25)}
+.txt-yellow-25{ color: var(--theme-color-3)}
+
 
 .bg-theme-brown { background-color: var(--rp-secondary);}
 .bg-theme-brown-200 { background-color: var(--theme-color-2);}
